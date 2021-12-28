@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.mainHeading {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.main{
+    width: 500px;
+    margin: 10% auto 0px auto;
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 3px #e2e2e2;
+    
+} 
+
+.question {
+    width: 100%;
+    padding: 10px 20px;
+    border-bottom: 2px solid #e2e2e2;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    
+}
+
+.optionLabel {
+    margin-left: 10px;
+}
+
+.buttons{
+    width: 100%;
+    padding: 10px 20px;
+    border-top: 2px solid #e2e2e2;
+    margin-top: 20px;
+    border-radius: 25px;
+    text-align: right;
+}
+
+#nextBtn {
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    background-color: #2cda3b;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
